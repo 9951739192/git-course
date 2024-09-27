@@ -1,1 +1,3 @@
-user details
+user details:
+name: satish
+course:python
