@@ -1,2 +1,0 @@
-admin:satish
-psw:112233
