@@ -1,4 +1,0 @@
-user details:g
-name: satish
-course:python
-duration:3 months
